@@ -1,3 +1,11 @@
+'''
+- stable sort
+- running time O(nlog(n))
+- highly paralizable
+
+- not too space efficient
+'''
+
 def merge(left, right):
     result= []
     left_index, right_index = 0, 0
