@@ -1,3 +1,18 @@
 {
-    "python.pythonPath": "/Users/bruce/algo/.venv/bin/python3.7"
+    "python.pythonPath": "/Users/bruce/algo/.venv/bin/python3.7",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#97cf30",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#2a84b5",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#79a626",
+        "titleBar.inactiveBackground": "#79a62699",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#15202b99",
+        "statusBar.background": "#79a626",
+        "statusBarItem.hoverBackground": "#5b7c1d",
+        "statusBar.foreground": "#15202b"
+    },
+    "peacock.color": "#79a626"
 }
